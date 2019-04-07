@@ -1,0 +1,28 @@
+{
+  "name": "carono/yii2-trello",
+  "description": "Yii2 trello wrapper",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Kasyanov",
+      "email": "info@carono.ru",
+      "homepage": "https://carono.ru"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "carono\\yii2trello\\": "src"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "2.0",
+    "yii2mod/yii2-array-query": "^1.3"
+  }
+}

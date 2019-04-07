@@ -1,0 +1,6 @@
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/carono/yii2-trello/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/carono/yii2-trello/?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/carono/yii2-trello/v/stable)](https://packagist.org/packages/carono/yii2-trello)
+[![Total Downloads](https://poser.pugx.org/carono/yii2-trello/downloads)](https://packagist.org/packages/carono/yii2-trello)
+[![License](https://poser.pugx.org/carono/yii2-trello/license)](https://packagist.org/packages/carono/yii2-trello)
+[![Build Status](https://travis-ci.org/carono/yii2-trello.svg?branch=master)](https://travis-ci.org/carono/yii2-trello)
+[![CodeFactor](https://www.codefactor.io/repository/github/carono/yii2-trello/badge)](https://www.codefactor.io/repository/github/carono/yii2-trello)
