@@ -22,7 +22,7 @@
     }
   },
   "require": {
-    "yiisoft/yii2": "2.0",
+    "yiisoft/yii2": "^2.0",
     "yii2mod/yii2-array-query": "^1.3"
   }
 }
